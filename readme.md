@@ -28,3 +28,10 @@ We are proud that in such a short period of time we got familiar with a complete
 * Mobile application (iOS Swift)
 * NodeJS and Phython scripts for reel board
 * A lot of enthusiasm and love
+
+## Members
+
+* Christin Loehr
+* Gabriela Tripon
+* Goran Vuksic
+* Dennis Micky Jensen
